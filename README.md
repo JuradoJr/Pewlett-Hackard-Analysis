@@ -5,15 +5,18 @@ The purpose of this analysis was to make a table that can help determine how man
 
 ## Results: 
 We can see the list of employees who are eligible for retirement in the retirement table we did. 
+
 <img width="661" alt="#1" src="https://user-images.githubusercontent.com/104862099/182257682-a2aa182e-bf33-4ef6-b50a-0268299650a8.png">
 
 
 We can see the total amount of people retiring without having duplicate names from people who have received promotions in our cleaned titles table.
+
 <img width="494" alt="#2" src="https://user-images.githubusercontent.com/104862099/182257706-fc33bad2-20c7-4f68-92b9-fd8fa1ceb035.png">
 
 
 
 We can see the total amount of people retiring according to their education level such as having a specific senior title in our soon-to-retire table.
+
 <img width="247" alt="#3" src="https://user-images.githubusercontent.com/104862099/182257714-a17a11d1-f303-4c6b-8c74-e6d3b649fd4e.png">
 
 
@@ -26,6 +29,7 @@ We can see the employees with senior titles who are eligible to receive the ment
 
 ###  How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Over 72,000 employee roles will need to be filled after adding all the employees who could retire according to their department.
+
 <img width="183" alt="#5" src="https://user-images.githubusercontent.com/104862099/182258599-a74c6859-b8a6-49cc-ab22-8d62556f115d.png">
 
 
