@@ -12,6 +12,7 @@ First, we write a query to make a Retirement Titles table that shows all the emp
 
 
 We then write a new query to make a Unique Titles table that holds employee information such as numbers, first and last name, and most recent job title.
+
 <img width="302" alt="Screen Shot 2022-08-19 at 1 17 46 PM" src="https://user-images.githubusercontent.com/104862099/185703303-1d140eb8-8d09-48ec-8746-2066018b1c7f.png">
 
 
@@ -31,10 +32,9 @@ To get the results we are looking. For we create a query to make a table to see.
 
 
 
+### Final Results
 
-
-
-We can see the list of employees who are eligible for retirement in the retirement table we did. 
+Our results show that a large number of employees are eligible to retire at any given time. We have a total of 72,458 employees who are eligible to retire and only 1,549 employees are eligible to receive mentorship. We can see the list of employees who are eligible for retirement in the retirement table we did. 
 
 <img width="661" alt="#1" src="https://user-images.githubusercontent.com/104862099/182257682-a2aa182e-bf33-4ef6-b50a-0268299650a8.png">
 
@@ -53,9 +53,7 @@ We can see the total amount of people retiring according to their education leve
 We can see the employees with senior titles who are eligible to receive the mentorship in our mentorship table.
 <img width="738" alt="#4" src="https://user-images.githubusercontent.com/104862099/182257733-1b640b0d-077c-4237-9f53-eb8b694bbeff.png">
 
-### Final Results
 
-Our results show that a large number of employees are eligible to retire at any given time. We have a total of 72,458 employees who are eligible to retire and only 1,549 employees are eligible to receive mentorship.
 
 ## Summary:
 
